@@ -6,8 +6,9 @@ import OrderedComponent from "./Components/list/OrderedList/ordered-component";
 function App() {
   return (
     <div>
-
       
+
+
       <h2>app.js</h2>
       
       <OrderedComponent />
